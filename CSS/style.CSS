@@ -1,0 +1,126 @@
+.bouton{
+    background-color:white;
+    width:150px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 50px;
+    padding:10px;
+}
+
+body {
+  font-family: Hiragino Maru Gothic ProN ;
+  font-style: normal;
+  font-size: 14px;
+  background-color: #e8eef1 ;
+  padding-left: 100px;
+  padding-right: 100px ;
+  font-weight: 400px;
+} 
+
+h1 {
+    color:#050D39;
+    font-weight: 900px;
+    font-family: Hiragino Kaku Gothic StdN;
+}
+
+h2 {
+    color:#050D39 ;
+    font-family: Hiragino Kaku Gothic StdN;
+    text-align: center;
+}
+
+
+#firstbox{
+    display: inline-flex;
+    background-color: #CEEFF2 ;
+    padding: 50px;
+}
+
+#carroussel {
+    width: 800px ;
+    height: auto;
+}
+
+#textlaunch{
+    width: 500px;
+}
+
+#form {
+    background-color: #EC5627 ;
+    width: 236px;
+    height: auto;
+    text-align: center;
+    border-radius: 10px;
+    padding: 30px;
+} 
+
+#buying{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#buy1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px;
+}
+
+#buy2{
+    display:flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    padding: 20px;
+}
+
+#testest2{
+    column-count: 4;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.test2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+
+#CandR{
+    background-color: #126A7C ;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    column-count: 2;
+    text-align: center;
+}  
+
+#start{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#icone{
+    column-count: 4;
+    margin-bottom: 50px;
+}
+
+#joinus{
+    background-color: #187183;
+    column-count: 2;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+
+#footer{
+    column-count: 2;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+
